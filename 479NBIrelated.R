@@ -1,0 +1,1 @@
+WI16 <- read.csv("C:/Users/H.K/Desktop/Spring 2017/479/NBI/WI16.txt")
